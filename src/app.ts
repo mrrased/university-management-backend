@@ -1,16 +1,27 @@
-import express, { Application, Request, Response } from 'express'
-import cors from 'cors'
-const app: Application = express()
+import express, { Application } from 'express';
+import cors from 'cors';
+import globalErrorHandler from './middlewares/globalErrorHandler';
+import { UserRoutes } from './app/modules/users/user,route';
+import { SemesterRoutes } from './app/modules/academicSemester/academicSemester.Route';
+const app: Application = express();
 // const port = 3000
 
-app.use(cors())
+app.use(cors());
 
 // parser
-app.use(express.json())
-app.use(express.urlencoded({ extended: true }))
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
-app.get('/', (req: Request, res: Response) => {
-  res.send('working Successfully')
-})
+// Application routes
+app.use('/api/v1/users/', UserRoutes);
+app.use('/api/v1/academic-semesters', SemesterRoutes);
 
-export default app
+// app.get('/', async (req: Request, res: Response, next: NextFunction) => {
+//   // throw new ApiError(400, 'api Error Message')
+//   next('apin Error message')
+// })
+
+// Global Error Handler
+app.use(globalErrorHandler);
+
+export default app;
