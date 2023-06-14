@@ -93,3 +93,93 @@
   label: 'DUCK',
   timestamp: '2023-06-10T12:53:11.306Z'
 }
+{
+  service: 'user-service',
+  issues: [
+    {
+      code: 'invalid_type',
+      expected: 'number',
+      received: 'string',
+      path: [ 'body', 'year' ],
+      message: 'Expected number, received string'
+    }
+  ],
+  addIssue: [Function (anonymous)],
+  addIssues: [Function (anonymous)],
+  name: 'ZodError',
+  level: 'error',
+  message: 'GlobalErrorHander [\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "number",\n' +
+    '    "received": "string",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "year"\n' +
+    '    ],\n' +
+    '    "message": "Expected number, received string"\n' +
+    '  }\n' +
+    ']',
+  stack: 'ZodError: [\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "number",\n' +
+    '    "received": "string",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "year"\n' +
+    '    ],\n' +
+    '    "message": "Expected number, received string"\n' +
+    '  }\n' +
+    ']\n' +
+    '    at Object.get error [as error] (E:\\Programing Hero\\university-management-backend\\node_modules\\zod\\lib\\types.js:43:31)\n' +
+    '    at ZodObject.parseAsync (E:\\Programing Hero\\university-management-backend\\node_modules\\zod\\lib\\types.js:164:22)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  label: 'DUCK',
+  timestamp: '2023-06-10T12:56:18.354Z'
+}
+{
+  service: 'user-service',
+  issues: [
+    {
+      code: 'invalid_type',
+      expected: 'number',
+      received: 'string',
+      path: [ 'body', 'year' ],
+      message: 'Expected number, received string'
+    }
+  ],
+  addIssue: [Function (anonymous)],
+  addIssues: [Function (anonymous)],
+  name: 'ZodError',
+  level: 'error',
+  message: 'GlobalErrorHander [\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "number",\n' +
+    '    "received": "string",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "year"\n' +
+    '    ],\n' +
+    '    "message": "Expected number, received string"\n' +
+    '  }\n' +
+    ']',
+  stack: 'ZodError: [\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "number",\n' +
+    '    "received": "string",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "year"\n' +
+    '    ],\n' +
+    '    "message": "Expected number, received string"\n' +
+    '  }\n' +
+    ']\n' +
+    '    at Object.get error [as error] (E:\\Programing Hero\\university-management-backend\\node_modules\\zod\\lib\\types.js:43:31)\n' +
+    '    at ZodObject.parseAsync (E:\\Programing Hero\\university-management-backend\\node_modules\\zod\\lib\\types.js:164:22)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  label: 'DUCK',
+  timestamp: '2023-06-10T12:59:13.255Z'
+}
