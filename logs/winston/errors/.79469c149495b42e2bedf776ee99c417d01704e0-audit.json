@@ -204,6 +204,91 @@
             "date": 1686715287235,
             "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\errors\\duck-2023-06-14-10-error.log",
             "hash": "138f3454d4e1852b140581d7a0734c7749d4dca34afcfca2ba29b7e8bc211a30"
+        },
+        {
+            "date": 1686720132798,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\errors\\duck-2023-06-14-11-error.log",
+            "hash": "b47d24a059ca5a63169142984a58ae995bfe054964586845b75a73f690e2c116"
+        },
+        {
+            "date": 1686722546097,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\errors\\duck-2023-06-14-12-error.log",
+            "hash": "fdfeac50f30918a0ddad2d76e8f4b0ddb22914e7fc1bbd09ed736b7e10c10597"
+        },
+        {
+            "date": 1686735503760,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\errors\\duck-2023-06-14-15-error.log",
+            "hash": "162300591111942c6d95f1d4d36509083fea83d2b74fc84d65b20a65bf7c2676"
+        },
+        {
+            "date": 1686736900318,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\errors\\duck-2023-06-14-16-error.log",
+            "hash": "8f91368a9db6d497241a745b0b36dec24bbe40aabf05cd115116254e4bda194d"
+        },
+        {
+            "date": 1686740517956,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\errors\\duck-2023-06-14-17-error.log",
+            "hash": "7d884252e181f798c9cb584faaee17cb82fa3844df0c59bea7b83bff96cd3676"
+        },
+        {
+            "date": 1686754443248,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\errors\\duck-2023-06-14-20-error.log",
+            "hash": "016394e04e05f19a8c4d77f985a6914a417aabdd0caf045a01fb7e0119ec52b7"
+        },
+        {
+            "date": 1686759499331,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\errors\\duck-2023-06-14-22-error.log",
+            "hash": "f811157aa8637c5e6172dfc7440a77f3e11371fa1c9ac96ba32a35e30eab41ef"
+        },
+        {
+            "date": 1686763016143,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\errors\\duck-2023-06-14-23-error.log",
+            "hash": "91e73986595fbd2e062bac16047b12a5ef9a4e549df7b4f7102fc24a37bbd5bf"
+        },
+        {
+            "date": 1686800258056,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\errors\\duck-2023-06-15-09-error.log",
+            "hash": "aea93dcd45b3b5cafbd093aa7dfe04847b32f3dee9a4b27ae512d993308cc997"
+        },
+        {
+            "date": 1686805689758,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\errors\\duck-2023-06-15-11-error.log",
+            "hash": "ba71be2d068b465d8a2ee679706ef72e48c32507738948d4dd0ad21c1e54e09a"
+        },
+        {
+            "date": 1686809413113,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\errors\\duck-2023-06-15-12-error.log",
+            "hash": "d1084658e11c0b66a723e78b66cacb78620627fc7dbe799608472dad25ac05ae"
+        },
+        {
+            "date": 1686825806798,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\errors\\duck-2023-06-15-16-error.log",
+            "hash": "f737834a3c2b71d8b416fba4d5ff575ce2e8d6a3cd3039b35f488e3084232714"
+        },
+        {
+            "date": 1686827314450,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\errors\\duck-2023-06-15-17-error.log",
+            "hash": "41ddd357ffdf5ef142354661018ac153ab5720d7604627114719815386ae44ab"
+        },
+        {
+            "date": 1686833479826,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\errors\\duck-2023-06-15-18-error.log",
+            "hash": "93e9df2898e07f04bdaa9fe6a07a218efb1f9979b0dc2ea8f99cacf80c0a1396"
+        },
+        {
+            "date": 1686835885789,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\errors\\duck-2023-06-15-19-error.log",
+            "hash": "918507bb3d8ee5adfd80c2c5fbacdfc909b9a53cf55a56eac9a0274fbe223e6b"
+        },
+        {
+            "date": 1686849425078,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\errors\\duck-2023-06-15-23-error.log",
+            "hash": "74f10c7a7795582b83e45f8c3c259472b0fd6eacee3610fed852e5aa7bfd4d05"
+        },
+        {
+            "date": 1686892462671,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\errors\\duck-2023-06-16-11-error.log",
+            "hash": "53cf72e639956150e70b280e9e442a249f54eb813ba5a34660a37b567b7c1ade"
         }
     ],
     "hashType": "sha256"

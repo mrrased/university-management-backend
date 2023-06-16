@@ -194,3 +194,17 @@
   label: 'DUCK',
   timestamp: '2023-06-14T04:32:31.398Z'
 }
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'DUCK',
+  timestamp: '2023-06-14T04:57:02.387Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'DUCK',
+  timestamp: '2023-06-14T04:57:02.478Z'
+}
