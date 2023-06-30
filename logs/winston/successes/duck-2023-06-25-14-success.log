@@ -1,0 +1,42 @@
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'DUCK',
+  timestamp: '2023-06-25T08:22:55.114Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'DUCK',
+  timestamp: '2023-06-25T08:22:55.140Z'
+}
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'DUCK',
+  timestamp: '2023-06-25T08:24:28.141Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'DUCK',
+  timestamp: '2023-06-25T08:24:28.167Z'
+}
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'DUCK',
+  timestamp: '2023-06-25T08:56:39.958Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'DUCK',
+  timestamp: '2023-06-25T08:56:39.995Z'
+}

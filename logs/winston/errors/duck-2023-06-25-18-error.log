@@ -1,0 +1,85 @@
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'DUCK',
+  timestamp: '2023-06-25T12:09:52.351Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  service: 'user-service',
+  issues: [
+    {
+      code: 'invalid_type',
+      expected: 'object',
+      received: 'undefined',
+      path: [ 'body', 'admin' ],
+      message: 'Required'
+    }
+  ],
+  addIssue: [Function (anonymous)],
+  addIssues: [Function (anonymous)],
+  name: 'ZodError',
+  level: 'error',
+  message: 'GlobalErrorHander [\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "object",\n' +
+    '    "received": "undefined",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "admin"\n' +
+    '    ],\n' +
+    '    "message": "Required"\n' +
+    '  }\n' +
+    ']',
+  stack: 'ZodError: [\n' +
+    '  {\n' +
+    '    "code": "invalid_type",\n' +
+    '    "expected": "object",\n' +
+    '    "received": "undefined",\n' +
+    '    "path": [\n' +
+    '      "body",\n' +
+    '      "admin"\n' +
+    '    ],\n' +
+    '    "message": "Required"\n' +
+    '  }\n' +
+    ']\n' +
+    '    at Object.get error [as error] (E:\\Programing Hero\\university-management-backend\\node_modules\\zod\\lib\\types.js:43:31)\n' +
+    '    at ZodObject.parseAsync (E:\\Programing Hero\\university-management-backend\\node_modules\\zod\\lib\\types.js:164:22)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  label: 'DUCK',
+  timestamp: '2023-06-25T12:44:04.789Z'
+}
+{
+  service: 'user-service',
+  errors: {
+    designation: ValidatorError: Path `designation` is required.
+        at validate (E:\Programing Hero\university-management-backend\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.SchemaType.doValidate (E:\Programing Hero\university-management-backend\node_modules\mongoose\lib\schematype.js:1333:7)
+        at E:\Programing Hero\university-management-backend\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `designation` is required.',
+        type: 'required',
+        path: 'designation',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'designation',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Admin validation failed',
+  level: 'error',
+  message: 'GlobalErrorHander Admin validation failed: designation: Path `designation` is required.',
+  stack: 'ValidationError: Admin validation failed: designation: Path `designation` is required.\n' +
+    '    at model.Document.invalidate (E:\\Programing Hero\\university-management-backend\\node_modules\\mongoose\\lib\\document.js:3147:32)\n' +
+    '    at E:\\Programing Hero\\university-management-backend\\node_modules\\mongoose\\lib\\document.js:2940:17\n' +
+    '    at E:\\Programing Hero\\university-management-backend\\node_modules\\mongoose\\lib\\schematype.js:1352:9\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  label: 'DUCK',
+  timestamp: '2023-06-25T12:47:54.794Z'
+}

@@ -6,291 +6,6 @@
     "auditLog": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\.5ca6de9b46fdb3d0e968026a53656ddd64753398-audit.json",
     "files": [
         {
-            "date": 1685943059154,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-05-11-success.log",
-            "hash": "b48c1e38cca7825d6dc106b84f0e3a6114c67d546ea3fcd696df943bc4f24490"
-        },
-        {
-            "date": 1685951120155,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-05-13-success.log",
-            "hash": "016c458dbd0b161d915c25f18dac6ae8fd98dbd844595fa46319ff8f92ac39ad"
-        },
-        {
-            "date": 1686023840886,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-06-09-success.log",
-            "hash": "30350afa6bc41966ef5a170fd80d255b384d70ec9685e994dd6bb504558ea1fb"
-        },
-        {
-            "date": 1686024399460,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-06-10-success.log",
-            "hash": "5ba2d1bac88d5eadc12926e1d9e90fad88cc2fc530af377b6f3695858ea55f39"
-        },
-        {
-            "date": 1686116807874,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-07-11-success.log",
-            "hash": "bd6b48b9590d0c06953304fd58b93e7772ed5dacab01c919a93c4ca3c6da779e"
-        },
-        {
-            "date": 1686118788228,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-07-12-success.log",
-            "hash": "ed008bfbdd888e5107624a14b63fcd4a1bd863688d68e252d1b84f2dda1e61e6"
-        },
-        {
-            "date": 1686121253754,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-07-13-success.log",
-            "hash": "6073ea21a67f422072a889a789ae18690cb2d13cdc3b73909ca859de42cccc01"
-        },
-        {
-            "date": 1686183155487,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-08-06-success.log",
-            "hash": "02a5a4e8af8d318ad840f4bcf42abbfd175eb1e92291a9dec8cf06592a36ff12"
-        },
-        {
-            "date": 1686189262730,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-08-07-success.log",
-            "hash": "1d58950fd53d53e814da36e63aaa2d513427df43a6c92e1c4ad75982b71f3cd1"
-        },
-        {
-            "date": 1686189630127,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-08-08-success.log",
-            "hash": "aae43e9a14c0a81410c9579e8edf5c761ae87f9b1a92f81e2e0074925f15b945"
-        },
-        {
-            "date": 1686241047626,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-08-22-success.log",
-            "hash": "db198cafa9aa7681d5c74ae75754beddfc474edae248463068cede66b5872483"
-        },
-        {
-            "date": 1686275102515,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-09-07-success.log",
-            "hash": "53c71140a917664b6c5ffcd5380f36dc4125731e6f0a05f9ae4e13166d74adfb"
-        },
-        {
-            "date": 1686291450783,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-09-12-success.log",
-            "hash": "45b1f2a8c9fb7364ef31aef647571be4f538a1ce102901fccf135b59c5c488c2"
-        },
-        {
-            "date": 1686367089271,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-10-09-success.log",
-            "hash": "387641dd5a7ac482e3bc0c569f41356c5a5a44cbf471118d5048e46ae591cfd5"
-        },
-        {
-            "date": 1686371455421,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-10-10-success.log",
-            "hash": "7c4eb2c47c62d83e382bcf4aa9a3d4b3e03c558bda51be64449fe2cac8520e58"
-        },
-        {
-            "date": 1686373515428,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-10-11-success.log",
-            "hash": "9e947100dfe1d4ac7a12a40405cc1a04b128aeb163905c341a42a6a3d3fbe194"
-        },
-        {
-            "date": 1686380176579,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-10-12-success.log",
-            "hash": "a54968a0e78300034f5b79959e3362c787b766269a2e7f4490ff91a997d93fd2"
-        },
-        {
-            "date": 1686381464369,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-10-13-success.log",
-            "hash": "55c97de4415187501985f5d474268ae3bf4f8eeedb55be77ac9df85f889a3da7"
-        },
-        {
-            "date": 1686401324400,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-10-18-success.log",
-            "hash": "310dbe36b2dbebe93658f2c386571ec5cff5fc1345f435d029c0c588811cb60f"
-        },
-        {
-            "date": 1686452885639,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-11-09-success.log",
-            "hash": "ad7a9913ece6cab04f2300d2b50e11705c59b3fae9a7ae8e2566b7566b56d5f1"
-        },
-        {
-            "date": 1686460170114,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-11-11-success.log",
-            "hash": "799e0e2b5e5ec3698052976f945be064b02c61070cf9248b0529bd12819202f8"
-        },
-        {
-            "date": 1686463826325,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-11-12-success.log",
-            "hash": "ac61e9d7ae90aae61dab9cef072e2a23d1fa52603550d7d51b879350fc31eb3a"
-        },
-        {
-            "date": 1686468696473,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-11-13-success.log",
-            "hash": "8f922715ff98e2805d620eae106a9df54aa6356f378d396addb0228b071790b2"
-        },
-        {
-            "date": 1686490190240,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-11-19-success.log",
-            "hash": "030ac31fe8583ac004ac0117d66ea87ddd50feacff82745e0d6bd23230f66e8e"
-        },
-        {
-            "date": 1686494306856,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-11-20-success.log",
-            "hash": "f00c7361adaff214764e42d0604548a7ffccf1cf0721f9a8d19d569eb65f060a"
-        },
-        {
-            "date": 1686500210129,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-11-22-success.log",
-            "hash": "003bf0f33c133372243d06aed042e1c2bde711e4814062fb141c5d213b221aef"
-        },
-        {
-            "date": 1686502890315,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-11-23-success.log",
-            "hash": "54aa18dc8312adb550143911b22fe8a8f4a5be6d9568b896fcf8388996a9930f"
-        },
-        {
-            "date": 1686539002946,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-12-09-success.log",
-            "hash": "9599a210896d6d66cab23ffefe4aacb3a4b976a19ec5ec363d059cffbf222f28"
-        },
-        {
-            "date": 1686545787761,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-12-10-success.log",
-            "hash": "178ed59d0e42a47ed4e1fa7ed619888c4ef5649140f4743e2be4b0cfe17d3fd8"
-        },
-        {
-            "date": 1686548182981,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-12-11-success.log",
-            "hash": "0009958c9551b6996b3ed46cf51130b8ffece4d11788da430287d88deb67bd74"
-        },
-        {
-            "date": 1686561327395,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-12-15-success.log",
-            "hash": "749102a7a33f83bf45f5b1c5aeb85069b4bcad4e96667d7f47cb3c4a2e447466"
-        },
-        {
-            "date": 1686566389022,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-12-16-success.log",
-            "hash": "d3d7c3cb99cee195de10e264c0c401489b77154776396549f1ea14985d0ed3ed"
-        },
-        {
-            "date": 1686567760957,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-12-17-success.log",
-            "hash": "a010bd01a493c2b683a760fe5cf6686e4685d28f26acc1efc950d9a60e9b1e21"
-        },
-        {
-            "date": 1686571591571,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-12-18-success.log",
-            "hash": "05d7c164d9a5d5a2e6a9adca9080fc6e28c7e1d92b9787981e885fb78a71826d"
-        },
-        {
-            "date": 1686575585813,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-12-19-success.log",
-            "hash": "31425410e42fca60c21cd87525f41b4238ca79ae0d2a8c5b36f0fd7cd56527b0"
-        },
-        {
-            "date": 1686578459427,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-12-20-success.log",
-            "hash": "d5d910a7f773ec17d0ea68951842df546a1a4cb72cbf12b82af543dccb49830a"
-        },
-        {
-            "date": 1686582015342,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-12-21-success.log",
-            "hash": "8639c0bd52090ea444e37399f1ed15cde21a06f241cceb041b34996743a37a69"
-        },
-        {
-            "date": 1686587414970,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-12-22-success.log",
-            "hash": "f36a074c69a3e295a07bae98bed893efea0a8c941c1765192fccffc0f4007dad"
-        },
-        {
-            "date": 1686622369533,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-13-08-success.log",
-            "hash": "c04f789f2b4e0344db2350c1c9672bdb96f31c856a63f7cbd4b9ed69a966e258"
-        },
-        {
-            "date": 1686625310842,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-13-09-success.log",
-            "hash": "725fca2abf22f1f5e5699a2756dafcaaaea16ebf51da066228858c71f331217f"
-        },
-        {
-            "date": 1686629037938,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-13-10-success.log",
-            "hash": "e80be2d91f4f8fc8d7528d8df8ae63bf933bce017e8a280ec81ebd2d62bead87"
-        },
-        {
-            "date": 1686633857218,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-13-11-success.log",
-            "hash": "4fcd80f9b4731844eb39d41e203486f402f69b8e5a4ca667d7207887bc2e8d26"
-        },
-        {
-            "date": 1686638332199,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-13-12-success.log",
-            "hash": "77b1b1ca9f45f3545cdb710dcbfb8f1320e0cd43192a819a35dabc802d69dd38"
-        },
-        {
-            "date": 1686639818516,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-13-13-success.log",
-            "hash": "2f052bacd1eadb263a26801ef6428e91293a10cb60aa37a88b5da11a9081685b"
-        },
-        {
-            "date": 1686662655761,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-13-19-success.log",
-            "hash": "c3ef4edf87aaf0e82528dbecf1088f0aaeec134a9c1da7719757d9059ccd05c2"
-        },
-        {
-            "date": 1686664825294,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-13-20-success.log",
-            "hash": "b61f67d1d27b76ebbe98be2745097ab6bc55bc98f5c4a0235df45bd64f9de7c9"
-        },
-        {
-            "date": 1686711227193,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-14-08-success.log",
-            "hash": "851beb7cb35584f5ff3cab70930b7f8890fd71b93a1abccba99742a623b2d226"
-        },
-        {
-            "date": 1686713482923,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-14-09-success.log",
-            "hash": "4ced8e5ab7fc3376d778eb59d8f4c51c39286cb29a8fc185e29d718e4a1dd56b"
-        },
-        {
-            "date": 1686715287162,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-14-10-success.log",
-            "hash": "eaf635f06f70704c645943a309ade608ceec3bd20d4670a1aecd66ac95fe4f7a"
-        },
-        {
-            "date": 1686720132752,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-14-11-success.log",
-            "hash": "51fa7152df09a6172b2f4b93a1fce5b22c41ad8d0fd2277f1043b603553196bf"
-        },
-        {
-            "date": 1686722545966,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-14-12-success.log",
-            "hash": "f685ad28b7914bf1b50dad97e0331f800c5dcb6eed3a8e866a0058713e13f421"
-        },
-        {
-            "date": 1686735503602,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-14-15-success.log",
-            "hash": "ec4a72bdbadfe9ba8e732abfe3624083e651c51780859ce3ce0dcaf381880281"
-        },
-        {
-            "date": 1686736900285,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-14-16-success.log",
-            "hash": "010cea7c30ed7bf7622653073b16187eb04a7c5187b8653ec189f1cf8c07b27a"
-        },
-        {
-            "date": 1686740517856,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-14-17-success.log",
-            "hash": "a521a3cdc771c5e82eeb6952d1f0b30ed27cbfd2e92b4c4e877b702966a2c7fa"
-        },
-        {
-            "date": 1686754443176,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-14-20-success.log",
-            "hash": "84a5d58d541758934d7e97851fee9e949bed1dc838b2661ae1a0111453177463"
-        },
-        {
-            "date": 1686759499283,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-14-22-success.log",
-            "hash": "36c8548ff338fd72942c488eb38d8d81a5f783f669429efaf3d37124fffe0a77"
-        },
-        {
-            "date": 1686763016095,
-            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-14-23-success.log",
-            "hash": "60c9f44e9fd7d178b3a50550d4949a9eb3125e482c3da1fd94b0e7216dfc4ece"
-        },
-        {
             "date": 1686800257940,
             "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-15-09-success.log",
             "hash": "89dfe700f1de0b8b0202f63915f7e59644a3c381d5f31695a8177103d2f45c28"
@@ -334,6 +49,196 @@
             "date": 1686892462592,
             "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-16-11-success.log",
             "hash": "7ba62168aee4940a9cded403f40baa9ed93ba676afddf4bebf8713803ac450a8"
+        },
+        {
+            "date": 1687278603876,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-20-22-success.log",
+            "hash": "d5bbea163795cffa3d88e766abb7abe949b19ca65cf16a0f7c8223c9554fff14"
+        },
+        {
+            "date": 1687356473702,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-21-20-success.log",
+            "hash": "988b30a21bb277a158c39f7bce039629904b6321d9fb3ec88c87a0e01b426d64"
+        },
+        {
+            "date": 1687397228413,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-22-07-success.log",
+            "hash": "676d3cbb0f8e6c9cf90ddeb78a29faee933718928c2e55c9f47141be5d2d6bd2"
+        },
+        {
+            "date": 1687400255739,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-22-08-success.log",
+            "hash": "bdc42f48741f371244c54c0f4209ba3b33d15cf384dc165ac63ddbe7fc939361"
+        },
+        {
+            "date": 1687409954769,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-22-10-success.log",
+            "hash": "3e3a28e6f4a484eeaf3059176800216d68393da58667110011a04d261ae17df0"
+        },
+        {
+            "date": 1687412864304,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-22-11-success.log",
+            "hash": "4c235b82bb63bb857a6155b3a371b86c2390b61fdd21354c6c6457fb161ed9b0"
+        },
+        {
+            "date": 1687413684200,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-22-12-success.log",
+            "hash": "7aeb349fbcd7a8254ece74aad7aab3b7fc913c457fef3c93df5e9caec5be317a"
+        },
+        {
+            "date": 1687417548965,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-22-13-success.log",
+            "hash": "75dca15d15b2c2dccfa93edb1b16ec9299f4bf73f56d14b69b2a607bcc8b5d20"
+        },
+        {
+            "date": 1687430076037,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-22-16-success.log",
+            "hash": "355bdc0905cd7df68ea29f77bd764b019d3113e8cc60aa4f5b63b53a1932ef7b"
+        },
+        {
+            "date": 1687431710577,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-22-17-success.log",
+            "hash": "0e65e720ea2aa558c4f647c65fbca7e88c99d34e5db0281e3b241de13bd9a8b2"
+        },
+        {
+            "date": 1687437737531,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-22-18-success.log",
+            "hash": "6854b2e179bb89d8cb26509c256b084138265613c1272c5dd2957a45a470bdcd"
+        },
+        {
+            "date": 1687486513455,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-23-08-success.log",
+            "hash": "c21ec495759c1700d5d38d296df828b46e481371c7c7fa759a36c6f5e86fd35f"
+        },
+        {
+            "date": 1687495437476,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-23-10-success.log",
+            "hash": "d8f5c43941cca6aea628a9254a6b3d3149d2c8ee2970ed97a7da9210885898d1"
+        },
+        {
+            "date": 1687509216586,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-23-14-success.log",
+            "hash": "34ee703755672255b4ea5f5ca73fd6000d25ff574d10269f729400e0412fd02d"
+        },
+        {
+            "date": 1687665355080,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-25-09-success.log",
+            "hash": "318473527227e1002a2f98ee7dd19e348b03c21cc809a66608a7bb6209cdbcfd"
+        },
+        {
+            "date": 1687666262465,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-25-10-success.log",
+            "hash": "188ecf6769633d79fbde4465078bf046e3dd9d1b508c584a6ec5b27da3d4ac8d"
+        },
+        {
+            "date": 1687670566468,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-25-11-success.log",
+            "hash": "fab9d02eef4ae95baa861895fb4ad8b906f8b78797817c9d7ab690d41cc66d27"
+        },
+        {
+            "date": 1687673309900,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-25-12-success.log",
+            "hash": "c94f5737c53d53e4b1736bfc377be038ce645279f741e0b919b5cd8d0b14c9fd"
+        },
+        {
+            "date": 1687681371846,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-25-14-success.log",
+            "hash": "f8fdf51554b33e07cff0580b62aed719bf962ca606b12550aac00ae3bd5672a5"
+        },
+        {
+            "date": 1687690807189,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-25-17-success.log",
+            "hash": "8f5c8c15525e8687ee2ef2bea103bb26ccea36689ccdcaca93cf252fc1be8a34"
+        },
+        {
+            "date": 1687694644012,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-25-18-success.log",
+            "hash": "e2758742c5fe73339475d3cfbe1ad9098e2af65341727dfda2def7a7f8a5e4b6"
+        },
+        {
+            "date": 1687698161791,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-25-19-success.log",
+            "hash": "648e8f09b2e51a23e35683ba2024ee2bf45b8e382b1802bd9b936aa8a3d429fa"
+        },
+        {
+            "date": 1687702190094,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-25-20-success.log",
+            "hash": "3225f792682893a75649cdd570761e28a92342435cb0fc2820fd0beba8fe7dcd"
+        },
+        {
+            "date": 1687707124703,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-25-21-success.log",
+            "hash": "48663bf239229ac986e10333d584bdba89e02222787a5cbfb453bd02bc6f76d0"
+        },
+        {
+            "date": 1687747673479,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-26-08-success.log",
+            "hash": "c925f2c64fc78f15cdcdb406adddccb585000ab35c5412753a060ec2b041b035"
+        },
+        {
+            "date": 1687842992588,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-27-11-success.log",
+            "hash": "bb0c8b59e29d47253490d1296765b3d6048d58b44b51cee9bf18ef066ca0d762"
+        },
+        {
+            "date": 1687856510568,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-27-15-success.log",
+            "hash": "8e8789df994a8def5f4d7b0ed9ea912adf283537cb0cedefb9dd7ee23e5943ce"
+        },
+        {
+            "date": 1687861932139,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-27-16-success.log",
+            "hash": "bee433ae1b8e2a4ba703040b77be87e9c8f4c17304d6d095735a77a99e324f77"
+        },
+        {
+            "date": 1687871103147,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-27-19-success.log",
+            "hash": "7d27b6209ad20d55b7504e885e006f06a2f0ef657c68d315c6667dc1ea012290"
+        },
+        {
+            "date": 1687875713443,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-27-20-success.log",
+            "hash": "5710c51a0ea4d5933204cbce05940fc03187b67da54211502b8ef126a003e9b4"
+        },
+        {
+            "date": 1687878077549,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-27-21-success.log",
+            "hash": "86439c3135e628a111ae96d312f0a879d949740467913894f18f207dc442a4af"
+        },
+        {
+            "date": 1687883399301,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-27-22-success.log",
+            "hash": "b1fb9463eba994e0ba50a6942ab787534f7db9fbfdf563bcda3a979d84bb1d86"
+        },
+        {
+            "date": 1687918440485,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-28-08-success.log",
+            "hash": "e0a6cf55885b38be2b36fe74fb17f935a46cdd3ad0e9f065b48efa9338327f33"
+        },
+        {
+            "date": 1687925551134,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-28-10-success.log",
+            "hash": "e04dc372ca6e1ae264e67e811baf2050dcd41c30a7ac2858a4968498b55bfe56"
+        },
+        {
+            "date": 1687929327739,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-28-11-success.log",
+            "hash": "d70f6217585549b2b5e970b5ad8586602107570ced093b39184e3be0e3f9afa4"
+        },
+        {
+            "date": 1687945322341,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-28-15-success.log",
+            "hash": "032fb22119b15028bf6cb429a1b2f499d814318787497d28adf06e72479bdabc"
+        },
+        {
+            "date": 1687973412417,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-28-23-success.log",
+            "hash": "09247eba77702eba40a3fb86e25a02374124ab18e7857ac30203c18175c40aee"
+        },
+        {
+            "date": 1687975345508,
+            "name": "E:\\Programing Hero\\university-management-backend\\logs\\winston\\successes\\duck-2023-06-29-00-success.log",
+            "hash": "585a266f89632ccbfbd5f641ab64695cc1b3bfab2309c71e7d5f8a932e57f7b2"
         }
     ],
     "hashType": "sha256"

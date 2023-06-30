@@ -1,6 +1,0 @@
-{
-  level: 'error',
-  service: 'user-service',
-  label: 'DUCK',
-  timestamp: '2023-06-12T15:26:43.166Z'
-}

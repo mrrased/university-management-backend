@@ -1,0 +1,105 @@
+{
+  service: 'user-service',
+  index: 0,
+  code: 11000,
+  keyPattern: { email: 1 },
+  keyValue: { email: 'manik@gmail.com' },
+  level: 'error',
+  message: 'GlobalErrorHander E11000 duplicate key error collection: university-management.faculties index: email_1 dup key: { email: "manik@gmail.com" }',
+  stack: 'MongoServerError: E11000 duplicate key error collection: university-management.faculties index: email_1 dup key: { email: "manik@gmail.com" }\n' +
+    '    at E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\operations\\insert.ts:85:25\n' +
+    '    at E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\cmap\\connection_pool.ts:574:11\n' +
+    '    at E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\sdam\\server.ts:368:13\n' +
+    '    at handleOperationResult (E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\sdam\\server.ts:502:14)\n' +
+    '    at Connection.onMessage (E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\cmap\\connection.ts:418:5)\n' +
+    '    at MessageStream.<anonymous> (E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\cmap\\connection.ts:243:56)\n' +
+    '    at MessageStream.emit (node:events:512:28)\n' +
+    '    at processIncomingData (E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\cmap\\message_stream.ts:187:12)\n' +
+    '    at MessageStream._write (E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\cmap\\message_stream.ts:68:5)\n' +
+    '    at writeOrBuffer (node:internal/streams/writable:392:12)',
+  label: 'DUCK',
+  timestamp: '2023-06-22T02:10:01.322Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  service: 'user-service',
+  path: 'faculty',
+  level: 'error',
+  message: 'GlobalErrorHander Cannot populate path `faculty` because it is not in your schema. Set the `strictPopulate` option to false to override.',
+  stack: 'StrictPopulateError: Cannot populate path `faculty` because it is not in your schema. Set the `strictPopulate` option to false to override.\n' +
+    '    at getModelsMapForPopulate (E:\\Programing Hero\\university-management-backend\\node_modules\\mongoose\\lib\\helpers\\populate\\getModelsMapForPopulate.js:49:12)\n' +
+    '    at populate (E:\\Programing Hero\\university-management-backend\\node_modules\\mongoose\\lib\\model.js:4243:21)\n' +
+    '    at _populate (E:\\Programing Hero\\university-management-backend\\node_modules\\mongoose\\lib\\model.js:4203:5)\n' +
+    '    at E:\\Programing Hero\\university-management-backend\\node_modules\\mongoose\\lib\\model.js:4175:5\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at Function.populate (E:\\Programing Hero\\university-management-backend\\node_modules\\mongoose\\lib\\model.js:4174:10)\n' +
+    '    at E:\\Programing Hero\\university-management-backend\\node_modules\\mongoose\\lib\\query.js:2485:11\n' +
+    '    at E:\\Programing Hero\\university-management-backend\\node_modules\\mongoose\\lib\\query.js:3140:21\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  label: 'DUCK',
+  timestamp: '2023-06-22T02:13:11.167Z'
+}
+{
+  service: 'user-service',
+  index: 0,
+  code: 11000,
+  keyPattern: { email: 1 },
+  keyValue: { email: 'manik@gmail.com' },
+  level: 'error',
+  message: 'GlobalErrorHander E11000 duplicate key error collection: university-management.faculties index: email_1 dup key: { email: "manik@gmail.com" }',
+  stack: 'MongoServerError: E11000 duplicate key error collection: university-management.faculties index: email_1 dup key: { email: "manik@gmail.com" }\n' +
+    '    at E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\operations\\insert.ts:85:25\n' +
+    '    at E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\cmap\\connection_pool.ts:574:11\n' +
+    '    at E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\sdam\\server.ts:368:13\n' +
+    '    at handleOperationResult (E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\sdam\\server.ts:502:14)\n' +
+    '    at Connection.onMessage (E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\cmap\\connection.ts:418:5)\n' +
+    '    at MessageStream.<anonymous> (E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\cmap\\connection.ts:243:56)\n' +
+    '    at MessageStream.emit (node:events:512:28)\n' +
+    '    at processIncomingData (E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\cmap\\message_stream.ts:187:12)\n' +
+    '    at MessageStream._write (E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\cmap\\message_stream.ts:68:5)\n' +
+    '    at writeOrBuffer (node:internal/streams/writable:392:12)',
+  label: 'DUCK',
+  timestamp: '2023-06-22T02:18:10.981Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  service: 'user-service',
+  path: 'faculty',
+  level: 'error',
+  message: 'GlobalErrorHander Cannot populate path `faculty` because it is not in your schema. Set the `strictPopulate` option to false to override.',
+  stack: 'StrictPopulateError: Cannot populate path `faculty` because it is not in your schema. Set the `strictPopulate` option to false to override.\n' +
+    '    at getModelsMapForPopulate (E:\\Programing Hero\\university-management-backend\\node_modules\\mongoose\\lib\\helpers\\populate\\getModelsMapForPopulate.js:49:12)\n' +
+    '    at populate (E:\\Programing Hero\\university-management-backend\\node_modules\\mongoose\\lib\\model.js:4243:21)\n' +
+    '    at _populate (E:\\Programing Hero\\university-management-backend\\node_modules\\mongoose\\lib\\model.js:4203:5)\n' +
+    '    at E:\\Programing Hero\\university-management-backend\\node_modules\\mongoose\\lib\\model.js:4175:5\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at Function.populate (E:\\Programing Hero\\university-management-backend\\node_modules\\mongoose\\lib\\model.js:4174:10)\n' +
+    '    at E:\\Programing Hero\\university-management-backend\\node_modules\\mongoose\\lib\\query.js:2485:11\n' +
+    '    at E:\\Programing Hero\\university-management-backend\\node_modules\\mongoose\\lib\\query.js:3140:21\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:77:11)',
+  label: 'DUCK',
+  timestamp: '2023-06-22T02:18:41.034Z'
+}
+{
+  service: 'user-service',
+  index: 0,
+  code: 11000,
+  keyPattern: { contactNo: 1 },
+  keyValue: { contactNo: 'user_5' },
+  level: 'error',
+  message: 'GlobalErrorHander E11000 duplicate key error collection: university-management.faculties index: contactNo_1 dup key: { contactNo: "user_5" }',
+  stack: 'MongoServerError: E11000 duplicate key error collection: university-management.faculties index: contactNo_1 dup key: { contactNo: "user_5" }\n' +
+    '    at E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\operations\\insert.ts:85:25\n' +
+    '    at E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\cmap\\connection_pool.ts:574:11\n' +
+    '    at E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\sdam\\server.ts:368:13\n' +
+    '    at handleOperationResult (E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\sdam\\server.ts:502:14)\n' +
+    '    at Connection.onMessage (E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\cmap\\connection.ts:418:5)\n' +
+    '    at MessageStream.<anonymous> (E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\cmap\\connection.ts:243:56)\n' +
+    '    at MessageStream.emit (node:events:512:28)\n' +
+    '    at processIncomingData (E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\cmap\\message_stream.ts:187:12)\n' +
+    '    at MessageStream._write (E:\\Programing Hero\\university-management-backend\\node_modules\\mongodb\\src\\cmap\\message_stream.ts:68:5)\n' +
+    '    at writeOrBuffer (node:internal/streams/writable:392:12)',
+  label: 'DUCK',
+  timestamp: '2023-06-22T02:23:00.629Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}

@@ -12,3 +12,10 @@
   label: 'DUCK',
   timestamp: '2023-06-15T13:31:28.948Z'
 }
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'DUCK',
+  timestamp: '2023-06-15T13:40:49.028Z'
+}

@@ -1,7 +1,0 @@
-{
-  statusCode: 409,
-  level: 'error',
-  service: 'user-service',
-  label: 'DUCK',
-  timestamp: '2023-06-11T17:13:18.699Z'
-}

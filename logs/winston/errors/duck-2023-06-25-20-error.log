@@ -1,0 +1,7 @@
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'DUCK',
+  timestamp: '2023-06-25T14:36:28.443Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
